@@ -1,0 +1,10 @@
+H:\COMP 123\Week 10\LabActivity\Calculator_With_Login\obj\Debug\Calculator_With_Login.csprojResolveAssemblyReference.cache
+H:\COMP 123\Week 10\LabActivity\Calculator_With_Login\obj\Debug\Calculator_With_Login.Calculator.resources
+H:\COMP 123\Week 10\LabActivity\Calculator_With_Login\obj\Debug\Calculator_With_Login.Form1.resources
+H:\COMP 123\Week 10\LabActivity\Calculator_With_Login\obj\Debug\Calculator_With_Login.csproj.GenerateResource.Cache
+H:\COMP 123\Week 10\LabActivity\Calculator_With_Login\bin\Debug\Calculator_With_Login.exe.config
+H:\COMP 123\Week 10\LabActivity\Calculator_With_Login\bin\Debug\Calculator_With_Login.exe
+H:\COMP 123\Week 10\LabActivity\Calculator_With_Login\bin\Debug\Calculator_With_Login.pdb
+H:\COMP 123\Week 10\LabActivity\Calculator_With_Login\obj\Debug\Calculator_With_Login.Properties.Resources.resources
+H:\COMP 123\Week 10\LabActivity\Calculator_With_Login\obj\Debug\Calculator_With_Login.exe
+H:\COMP 123\Week 10\LabActivity\Calculator_With_Login\obj\Debug\Calculator_With_Login.pdb
